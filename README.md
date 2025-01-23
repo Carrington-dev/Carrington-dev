@@ -4,17 +4,17 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build exciting projects.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **[Your Current Learning Focus]**.
-- 👯 I’m looking to collaborate on **[Projects or Technologies You Want to Collaborate On]**.
-- 💬 Ask me about **[Topics You Are Knowledgeable About]**.
-- 📫 How to reach me: **[Your Email or Other Contact Information]**.
+- 🌱 I’m currently learning **[Artificial Inteligence and Data Science]**.
+- 👯 I’m looking to collaborate on **[Fintech Forex Trader Application]**.
+- 💬 Ask me about **[Python, CI-CD, DevOps, Kubernetes, Docker]**.
+- 📫 How to reach me: **[mcm96m@gmail.com]**.
 - ⚡ Fun fact: **[Something Interesting About You]**.
 
 ## 🛠️ Technologies & Tools
-- **Languages:** [List of Programming Languages you use]
-- **Frameworks:** [List of Frameworks]
-- **Tools:** [List of Tools and Software]
-- **Databases:** [List of Databases]
+- **Languages:** [Python, Java, Kotlin]
+- **Frameworks:** [Flask, Django, FastApi, Springboot, Android]
+- **Tools:** [virtual-env, android-studio, ]
+- **Databases:** [MongoDB, MySQL, PostgreSQL, DynammoDB]
 
 ## 📈 GitHub Stats
 ![Carrington-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carrington-dev&show_icons=true&theme=radical)
@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carrington-dev&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
-- [Personal Website](https://your-website.com)
+- [LinkedIn](https://www.linkedin.com/in/carrington-muleya-4a25251a3/)
+- [Meta](https://facebook.com/stemgon)
+- [Work Website](https://khano.solutions)
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
