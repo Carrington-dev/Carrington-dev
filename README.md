@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi there 👋, I'm Carrington-dev!
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build exciting projects.
