@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - 👯 I’m looking to collaborate on **[Fintech Forex Trader Application]**.
 - 💬 Ask me about **[Python, CI-CD, DevOps, Kubernetes, Docker]**.
 - 📫 How to reach me: **[mcm96m@gmail.com]**.
-- ⚡ Fun fact: **[Something Interesting About You]**.
+- ⚡ Fun fact: **[I like being the best in whatever I do]**.
 
 ## 🛠️ Technologies & Tools
 - **Languages:** [Python, Java, Kotlin]
