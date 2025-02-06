@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **[Artificial Inteligence and Data Science]**.
-- 👯 I’m looking to collaborate on **[Fintech Forex Trader Application]**.
+- 👯 I’m looking to collaborate on **[Fintech Forex Trader Application, AI Research etc]**.
 - 💬 Ask me about **[Python, CI-CD, DevOps, Kubernetes, Docker]**.
 - 📫 How to reach me: **[mcm96m@gmail.com]**.
 - ⚡ Fun fact: **[I like being the best in whatever I do]**.
