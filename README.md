@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Carrington-dev!
 
-Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build exciting projects.
+Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build exciting projects. I am also a well trained and experienced DevOps Engineer.
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **[Artificial Inteligence and Data Science]**.
