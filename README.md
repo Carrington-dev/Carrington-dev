@@ -32,6 +32,41 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+
+Here's a list of essential tools for your tech stack:  
+
+### **Python Backend**  
+- **Frameworks:** Django, Flask, FastAPI  
+- **Database:** PostgreSQL, MySQL, MongoDB, Redis  
+- **ORMs:** SQLAlchemy, Django ORM  
+- **Testing:** Pytest, Unittest  
+- **Logging & Monitoring:** Sentry, Prometheus, ELK Stack  
+- **Task Queues:** Celery, RabbitMQ, Kafka  
+- **API Development:** OpenAPI, GraphQL (Ariadne, Strawberry)  
+- **Containerization:** Docker, Podman  
+- **Package Management:** pip, Poetry, Conda  
+
+### **JavaScript Frontend**  
+- **Frameworks:** React.js, Next.js, Vue.js  
+- **State Management:** Redux, Zustand, Recoil  
+- **UI Libraries:** Material-UI, TailwindCSS, Chakra UI  
+- **Build Tools:** Vite, Webpack, esbuild  
+- **Testing:** Jest, React Testing Library, Cypress  
+- **Type Safety:** TypeScript  
+- **API Handling:** Axios, TanStack Query (React Query)  
+- **SSR & SSG:** Next.js, Astro  
+
+### **DevOps & CI/CD**  
+- **Cloud Providers:** AWS, GCP, Azure  
+- **Containers & Orchestration:** Docker, Kubernetes  
+- **CI/CD Pipelines:** GitHub Actions, GitLab CI/CD, Jenkins, ArgoCD  
+- **Infrastructure as Code:** Terraform, Pulumi, Ansible  
+- **Monitoring & Logging:** Prometheus, Grafana, Loki, ELK Stack  
+- **Secrets Management:** HashiCorp Vault, AWS Secrets Manager  
+- **Version Control & Collaboration:** Git, GitHub, GitLab, Bitbucket  
+
+Would you like recommendations for specific use cases or tools that best integrate with your current workflow?
+
 ---
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
