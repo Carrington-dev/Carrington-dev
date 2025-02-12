@@ -12,6 +12,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 🛠️ Technologies & Tools
 - **Languages:** [Python, Java, Kotlin]
 - **Frameworks:** [Flask, Django, FastApi, Springboot, Android]
+    - **Backend Frameworks:** [Flask, Django Rest Framework, FastApi, Springboot, ]
+    - **Frontend Frameworks:** [React, NextJS, VueJs, Android]
 - **Tools:** [virtual-env, Android-studio, Ansible, Python, CI-CD, DevOps, Kubernetes, Docker, Gunicorn, Nginx ]
 - **Databases:** [MongoDB, MySQL, PostgreSQL, DynammoDB]
 
