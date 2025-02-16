@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carrington-dev&layout=compact&theme=radical)
 
 ## 🏆 More Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carrington-dev&layout=compact&theme=tokyonight&langs_count=6" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carrington-dev&layout=compact&theme=tokyonight&langs_count=10" />
 
 
 ## 🌐 Connect with Me
