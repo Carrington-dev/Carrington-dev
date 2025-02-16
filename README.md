@@ -58,7 +58,7 @@ Here's a list of essential tools for your tech stack:
 
 ### **DevOps & CI/CD**  
 - **Cloud Providers:** AWS, GCP, Azure  
-- **Containers & Orchestration:** Docker, Kubernetes  
+- **Containers & Orchestration:** Docker, Kubernetes, Istio  
 - **CI/CD Pipelines:** GitHub Actions, GitLab CI/CD, Jenkins, ArgoCD  
 - **Infrastructure as Code:** Terraform, Pulumi, Ansible  
 - **Monitoring & Logging:** Prometheus, Grafana, Loki, ELK Stack  
