@@ -23,6 +23,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carrington-dev&layout=compact&theme=radical)
 
+## 🏆 More Stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielbellmas&layout=compact&theme=tokyonight&langs_count=6" />
+
+
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/carrington-muleya-4a25251a3/)
 - [Meta](https://facebook.com/stemgon)
