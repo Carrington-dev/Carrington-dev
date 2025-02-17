@@ -26,6 +26,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ## 🏆 More Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carrington-dev&layout=compact&theme=tokyonight&langs_count=10" />
 
+## Nice States
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=Carrington-dev&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+
+
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/carrington-muleya-4a25251a3/)
