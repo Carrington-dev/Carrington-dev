@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - **Databases:** [MongoDB, MySQL, PostgreSQL, DynammoDB]
 
 ## 📈 GitHub Stats
-![Carrington-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carrington-dev&show_icons=true&theme=radical)
+![Carrington-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carrington-dev&show_icons=true&theme=radical&count_private=true)
 
 ## 🏆 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carrington-dev&layout=compact&theme=radical)
