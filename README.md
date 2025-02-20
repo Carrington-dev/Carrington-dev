@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build exciting projects. I am also a well trained and experienced DevOps Engineer.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **[Artificial Inteligence and Data Science]**.
+- 🌱 I’m currently learning **[Artificial Inteligence and Data Science, Generic Computer Science]**.
 - 👯 I’m looking to collaborate on **[Fintech Forex Trader Application, AI Research etc]**.
 - 💬 Ask me about **[Python, CI-CD, DevOps, Kubernetes, Docker]**.
 - 📫 How to reach me: **[crn@stemgon.co.za]**.
