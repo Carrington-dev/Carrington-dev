@@ -29,12 +29,9 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 - [Meta](https://facebook.com/stemgon)
 - [Work Website](https://khano.solutions)
 
-## 📚 Latest Blog Posts
+## 📚 Frameworks That I work with
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-
-Here's a list of essential tools for your tech stack:  
 
 ### **Python Backend**  
 - **Frameworks:** Django, Flask, FastAPI  
