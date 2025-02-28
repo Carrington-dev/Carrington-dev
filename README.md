@@ -1,6 +1,5 @@
 # Hello World👋, I'm Carrington-dev!
 
-👨‍💻 **Carrington Dev**  
 Passionate Developer | Code Enthusiast | Open-Source Contributor  
 🔹 Specializing in Full-Stack Development  
 🔹 JavaScript | Python | React | Node.js | Django  
