@@ -11,9 +11,6 @@ Passionate Developer | Code Enthusiast | Open-Source Contributor
 Let's connect! 🌐 [Twitter](https://www.stemgon.co.za) | [LinkedIn](https://www.stemgon.co.za) | [Website](https://www.stemgon.co.za)
 
 ---
-
-You can adjust the technologies and links to fit Carrington Dev's actual skillset and preferences.
-
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build exciting projects. I am also a well trained and experienced DevOps Engineer.
 
 ## 🚀 About Me
