@@ -1,5 +1,19 @@
 # Hello World👋, I'm Carrington-dev!
 
+👨‍💻 **Carrington Dev**  
+Passionate Developer | Code Enthusiast | Open-Source Contributor  
+🔹 Specializing in Full-Stack Development  
+🔹 JavaScript | Python | React | Node.js | Django  
+🔹 Building tools to make life easier  
+🔹 Always learning, always building 🚀  
+🔹 Check out my repositories below for open-source projects and collaborations!
+
+Let's connect! 🌐 [Twitter](https://www.stemgon.co.za) | [LinkedIn](https://www.stemgon.co.za) | [Website](https://www.stemgon.co.za)
+
+---
+
+You can adjust the technologies and links to fit Carrington Dev's actual skillset and preferences.
+
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build exciting projects. I am also a well trained and experienced DevOps Engineer.
 
 ## 🚀 About Me
