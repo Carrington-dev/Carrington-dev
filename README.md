@@ -5,7 +5,7 @@ Passionate Developer | Code Enthusiast | Open-Source Contributor
 🔹 JavaScript | Python | React | Node.js | Django  
 🔹 Building tools to make life easier  
 🔹 Always learning, always building 🚀  
-🔹 Senior DevOps Engineer
+🔹 Senior DevOps Engineer  🚀  
 🔹 Check out my repositories below for open-source projects and collaborations!
 
 Let's connect! 🌐 [Twitter](https://www.stemgon.co.za) | [LinkedIn](https://www.stemgon.co.za) | [Website](https://www.stemgon.co.za)
