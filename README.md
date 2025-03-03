@@ -10,8 +10,9 @@ Passionate Developer | Code Enthusiast | Open-Source Contributor
 Let's connect! 🌐 [Twitter](https://www.stemgon.co.za) | [LinkedIn](https://www.stemgon.co.za) | [Website](https://www.stemgon.co.za)
 
 ---
+<!--
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build exciting projects. I am also a well trained and experienced DevOps Engineer.
-
+-->
 ## 🚀 About Me
 - 🌱 I’m currently learning **[Artificial Inteligence and Data Science, Generic Computer Science]**.
 - 👯 I’m looking to collaborate on **[Fintech Forex Trader Application, AI Research etc]**.
