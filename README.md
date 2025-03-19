@@ -7,7 +7,7 @@ Passionate Developer | Code Enthusiast | Open-Source Contributor
 🔹 Always learning, always building 🚀  
 🔹 Senior DevOps Engineer  🚀  
 🔹 Check out my repositories below for open-source projects and collaborations!
-
+Hi
 Let's connect! 🌐 [Twitter](https://www.stemgon.co.za) | [LinkedIn](https://www.stemgon.co.za) | [Website](https://www.stemgon.co.za)
 
 ---
