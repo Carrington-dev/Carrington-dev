@@ -80,6 +80,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ![GitHub issues](https://img.shields.io/github/issues/Carrington-dev/Carrington-dev?style=for-the-badge)
 [![Sponsor](https://img.shields.io/badge/Sponsor-Me-blue?style=for-the-badge)](https://github.com/sponsors/Carrington-dev)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Carrington-dev&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carrington-dev)
+
+
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
 <!--
