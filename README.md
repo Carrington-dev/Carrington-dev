@@ -75,6 +75,10 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 
 ---
 
+![GitHub Repo stars](https://img.shields.io/github/stars/Carrington-dev/Carrington-dev?style=for-the-badge)
+
+---
+
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
 <!--
 
