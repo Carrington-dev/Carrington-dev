@@ -76,15 +76,14 @@ Welcome to my GitHub profile! I'm a passionate developer who loves to explore ne
 ---
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Carrington-dev/Carrington-dev?style=for-the-badge)
-
----
-![CI](https://github.com/Carrington-dev/Carrington-dev/workflows/your_workflow_name/badge.svg)
----
+![GitHub forks](https://img.shields.io/github/forks/Carrington-dev/Carrington-dev?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/Carrington-dev/Carrington-dev?style=for-the-badge)
 [![Sponsor](https://img.shields.io/badge/Sponsor-Me-blue?style=for-the-badge)](https://github.com/sponsors/Carrington-dev)
 
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Let's build something amazing together!
 <!--
+![CI](https://github.com/Carrington-dev/Carrington-dev/workflows/your_workflow_name/badge.svg)
 
 ## 🏆 More Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carrington-dev&layout=compact&theme=tokyonight&langs_count=10" />
