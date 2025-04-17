@@ -2,7 +2,7 @@
 
 Passionate Developer | Code Enthusiast | Open-Source Contributor  
 🔹 Specializing in Full-Stack Development  
-🔹 JavaScript | Python | React | Node.js | Django  
+🔹 JavaScript | Python | React | Java | Django  
 🔹 Building tools to make life easier  
 🔹 Always learning, always building 🚀  
 🔹 Senior DevOps Engineer  🚀  
