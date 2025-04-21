@@ -11,6 +11,8 @@ Passionate Developer | Code Enthusiast | Open-Source Contributor
 ---
 <!--
 Welcome to my GitHub profile! I'm a passionate developer who loves to explore new technologies and build exciting projects. I am also a well trained and experienced DevOps Engineer.
+
+i love innovation 
 -->
 ## 🚀 About Me
 - 🌱 I’m currently learning **[Artificial Inteligence and Data Science, Generic Computer Science]**.
