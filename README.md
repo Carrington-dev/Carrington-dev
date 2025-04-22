@@ -58,7 +58,7 @@ i love innovation
 
 ### **JavaScript Frontend**  
 - **Frameworks:** React.js, Next.js, Vue.js  
-- **State Management:** Redux, Zustand, Recoil  
+- **State Management:** Redux
 - **UI Libraries:** Material-UI, TailwindCSS, Chakra UI  
 - **Build Tools:** Vite, Webpack, esbuild  
 - **Testing:** Jest, React Testing Library, Cypress  
