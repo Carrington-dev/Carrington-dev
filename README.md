@@ -19,7 +19,7 @@ i love innovation
 - 👯 I’m looking to collaborate on **[Fintech Forex Trader Application, AI Research etc]**.
 - 💬 Ask me about **[Python, CI-CD, DevOps, Kubernetes, Docker]**.
 - 📫 How to reach me: **[interests@stemgon.co.za]**.
-- ⚡ Fun fact: **[I like being the best in whatever I do]**.
+- ⚡ Fun fact: **[Love to do things the right way]**.
 
 ## 🛠️ Technologies & Tools
 - **Languages:** [Python, JavaScript, Java, Kotlin, C++ ]
