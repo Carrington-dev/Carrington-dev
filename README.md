@@ -1,13 +1,13 @@
 # Hello World👋, I'm Carrington-dev!
 
 Passionate Developer | Code Enthusiast | Open-Source Contributor  
-🔹 Specializing in Full-Stack Development  
-🔹 JavaScript | Python | React | Java | Django  
-🔹 Building tools to make life easier  
-🔹 Always learning, always building 🚀  
-🔹 Senior DevOps Engineer  🚀  
-🔹 Check out my repositories below for open-source projects and collaborations!
-🔹 Senior Software Engineer  🚀  
+* Specializing in Full-Stack Development
+* JavaScript | Python | React | Java | Django
+* Building tools to make life easier
+* Always learning, always building 🚀
+* Senior DevOps Engineer  🚀
+* Check out my repositories below for open-source projects and collaborations!
+* Senior Software Engineer  🚀  
 
 
 ---
