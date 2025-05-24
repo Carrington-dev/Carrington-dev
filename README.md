@@ -7,6 +7,8 @@ Passionate Developer | Code Enthusiast | Open-Source Contributor
 🔹 Always learning, always building 🚀  
 🔹 Senior DevOps Engineer  🚀  
 🔹 Check out my repositories below for open-source projects and collaborations!
+🔹 Senior Software Engineer  🚀  
+
 
 ---
 <!--
