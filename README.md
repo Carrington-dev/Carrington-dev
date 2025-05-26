@@ -18,7 +18,7 @@ i love innovation
 -->
 ## 🚀 About Me
 - 🌱 I’m currently learning **[Artificial Inteligence and Data Science, Generic Computer Science]**.
-- 👯 I’m looking to collaborate on **[Fintech Forex Trader Application, AI Research etc]**.
+- 👯 I’m looking to collaborate on **[Fintech Forex Trader Application, AI Research, etc]**.
 - 💬 Ask me about **[Python, CI-CD, DevOps, Kubernetes, Docker]**.
 - 📫 How to reach me: **[ideas@stemgon.co.za]**.
 - ⚡ Fun fact: **[Love to do things the right way]**.
