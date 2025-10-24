@@ -9,7 +9,7 @@ Passionate developer and open-source contributor specializing in building scalab
 ## 🚀 About Me
 
 - 💼 **Senior DevOps Engineer** with full-stack development expertise
-- 🌱 Currently learning **Artificial Intelligence, Data Science & Computer Science**
+- 🌱 Currently working on **Artificial Intelligence, Data Science & Computer Science**
 - 👯 Looking to collaborate on **Fintech/Forex Trading Applications** and **AI Research**
 - 💬 Ask me about **Python, CI/CD, DevOps, Kubernetes, Docker**
 - 📫 Reach me at: **[ideas@khano.ai](mailto:ideas@khano.ai)**
