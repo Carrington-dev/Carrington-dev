@@ -7,7 +7,7 @@
 *Building scalable systems and making developers' lives easier*
 
 [![Email](https://img.shields.io/badge/Email-ideas%40khano.ai-red?style=for-the-badge&logo=gmail)](mailto:ideas@khano.ai)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/carrington-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carrington-muleya-4a25251a3/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/carrington_dev)
 
 </div>
