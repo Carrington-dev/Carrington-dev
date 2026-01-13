@@ -128,19 +128,6 @@ expertise = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carrington-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carrington-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carrington-dev&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🎓 Technical Philosophy
 
