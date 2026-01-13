@@ -1,36 +1,88 @@
-# 🏦 High-Velocity Fintech API 
+<div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![CI/CD](https://github.com/Carrington-dev/repo-name/actions/workflows/main.yml/badge.svg)](https://github.com/Carrington-dev/repo-name/actions)
-[![Terraform](https://img.shields.io/badge/Infrastructure-Terraform-623CE4?logo=terraform)](https://www.terraform.io/)
+# 👨‍💻 Carrington
 
-**The "Right Way" to build financial microservices.** This project provides a production-hardened foundation using FastAPI, PostgreSQL, and Redis, wrapped in a fully automated DevOps pipeline.
+### Senior Software Engineer • DevOps • Full-Stack
 
-[Explore Docs](https://github.com/Carrington-dev/repo-name/wiki) · [Report Bug](https://github.com/Carrington-dev/repo-name/issues) · [Request Feature](https://github.com/Carrington-dev/repo-name/issues)
+*Building scalable systems and making developers' lives easier*
+
+[![Email](https://img.shields.io/badge/Email-ideas%40khano.ai-red?style=for-the-badge&logo=gmail)](mailto:ideas@khano.ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carrington-muleya-4a25251a3/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/carrington_dev)
+
+</div>
 
 ---
 
-## ✨ Why This Project?
+## 🎯 Focus Areas
 
-Most fintech tutorials skip the "boring" stuff that actually matters. This repo includes:
-- 🔒 **PCI-DSS Compliant Logging:** Masking sensitive data by default.
-- ⚡ **Idempotency Keys:** Native support for preventing double-billing on API retries.
-- 🏗️ **Infrastructure as Code:** One-command deployment via Terraform & Kubernetes.
-- 🧪 **95%+ Test Coverage:** Strict adherence to TDD.
+```javascript
+const carrington = {
+    role: "Senior DevOps Engineer",
+    current: ["AI & Data Science", "Fintech Solutions", "Infrastructure Automation"],
+    openTo: ["Fintech/Forex Trading Apps", "AI Research", "Open Source"],
+    passion: "Building things the right way"
+};
+```
 
-## 🛠 Tech Stack
+## 🛠️ Technology Arsenal
 
-- **Engine:** Python 3.12 / FastAPI
-- **Database:** PostgreSQL (with Alembic migrations)
-- **Cache/Queue:** Redis & Celery
-- **DevOps:** Docker, K8s, GitHub Actions
-- **Observability:** Prometheus & Grafana exports
+<table>
+<tr>
+<td valign="top" width="33%">
 
-## 🚀 Quick Start
+### Backend
+- Django, Flask, FastAPI
+- Spring Boot
+- PostgreSQL, MongoDB, Redis
+- GraphQL, REST APIs
+- Celery, Kafka
 
-```bash
-# Clone the repository
-git clone [https://github.com/Carrington-dev/repo-name.git](https://github.com/Carrington-dev/repo-name.git)
+</td>
+<td valign="top" width="33%">
 
-# Spin up the entire stack (API, DB, Redis, Grafana)
-docker-compose up -d
+### Frontend
+- React, Next.js, Vue.js
+- Redux, TanStack Query
+- TailwindCSS
+- TypeScript
+- Vite, Webpack
+
+</td>
+<td valign="top" width="33%">
+
+### DevOps
+- AWS, GCP, Azure
+- Docker, Kubernetes
+- Terraform, Ansible
+- GitHub Actions, ArgoCD
+- Prometheus, Grafana
+
+</td>
+</tr>
+</table>
+
+## 🚀 Currently Building
+
+- 🤖 AI/ML applications
+- 📈 Fintech & Forex trading solutions
+- 🏗️ Scalable microservices architectures
+- 🔧 Infrastructure automation tools
+- 🌐 Full-stack web applications
+
+## 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carrington-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carrington-dev&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+<div align="center">
+
+### 💬 Let's Collaborate
+
+Open to interesting projects in **Fintech** • **AI Research** • **Open Source**
+
+**⭐️ From [carrington-dev](https://github.com/carrington-dev) • Always learning, always building**
+
+</div>
