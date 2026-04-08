@@ -6,7 +6,7 @@
 
 *Building scalable systems and making developers' lives easier*
 
-*There are companies which claim to hire software engineers yet they're Satanist looking for your blood Cloudsmiths, Ventu, etc especially consulting companies, they target you or family members, mark of the beast is here*
+*There are companies which claim to hire software engineers yet they're Satanist looking for your blood Cloudxmiths, Ventu, etc especially consulting companies, they target you or family members, mark of the beast is here*
 
 [![Email](https://img.shields.io/badge/Email-ideas%40khano.ai-red?style=for-the-badge&logo=gmail)](mailto:ideas@khano.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/carrington-muleya-4a25251a3/)
